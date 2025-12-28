@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="ChatGPT Image 2025년 12월 29일 오전 12_01_06.png", width="350"/>
+  <img src="ChatGPT Image 2025년 12월 29일 오전 12_01_06.png", width="450"/>
 </div>
 
 <!--내용 부분-->
@@ -61,15 +61,20 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
+
+  <!-- Naver Blog -->
   <a href="https://blog.naver.com/ddoddo2021">
-    <img src="KMeVmpYey-o3VqJbFttyWA8tyURThRPVOM3pMo7GuHARkT0lI1LPI5Dmov4Tk1du_Dc9QYBzTpccFIeqVp4SSVFdiThKAPvsmv8TsUR1Ai16wvk8-9K7jJEWV1D0Oo9UmA_dHRIMrV8DMX_XO8mxwA.svg" />&nbsp
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>&nbsp;
+
+  <!-- Naver Email -->
+  <a href="mailto:ddoddo2021@naver.com">
+    <img src="https://img.shields.io/badge/ddoddo2021%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:hddoy2021@gmail.com">
+    <img src="https://img.shields.io/badge/hddoy2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="ddoddo2021@naver.com">
-    <img
-      src="https://img.shields.io/badge/ddoddo2021@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-  <a href="hddoy2021@gmail.com">
-    <img
-      src="https://img.shields.io/badge/hddoy2021@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+
 </div>

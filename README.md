@@ -6,24 +6,34 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
+
 <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Chroma-5A29E4?style=for-the-badge&logo=vectorworks&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+<br>
+  
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain%20Agent-0B5ED7?style=for-the-badge&logo=chainlink&logoColor=white" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </div>
 
 <br>
@@ -43,6 +53,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LangChain-Retrieval-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+
 </div>
 
 <br>

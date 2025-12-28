@@ -64,17 +64,18 @@
 
   <!-- Naver Blog -->
   <a href="https://blog.naver.com/ddoddo2021">
-    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/naver%20blog-03C75A?style=flat&logo=naver&logoColor=white"/>
   </a>&nbsp;
 
   <!-- Naver Email -->
   <a href="mailto:ddoddo2021@naver.com">
-  <img src="https://img.shields.io/badge/ddoddo2021%40naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ddoddo2021%40naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
   </a>&nbsp;
 
   <!-- Gmail -->
   <a href="mailto:hddoy2021@gmail.com">
-    <img src="https://img.shields.io/badge/hddoy2021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/hddoy2021%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
 </div>
+

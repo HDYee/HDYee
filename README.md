@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="ChatGPT Image 2025년 12월 29일 오전 12_28_18.png", width="450"/>
+  <img src="github_logo.png", width="450"/>
 </div>
 
 <!--내용 부분-->

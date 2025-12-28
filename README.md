@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Tech ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -61,11 +61,15 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  <a href="https://blog.naver.com/ddoddo2021">
+    <img src="KMeVmpYey-o3VqJbFttyWA8tyURThRPVOM3pMo7GuHARkT0lI1LPI5Dmov4Tk1du_Dc9QYBzTpccFIeqVp4SSVFdiThKAPvsmv8TsUR1Ai16wvk8-9K7jJEWV1D0Oo9UmA_dHRIMrV8DMX_XO8mxwA.svg" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="ddoddo2021@naver.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/ddoddo2021@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="hddoy2021@gmail.com">
+    <img
+      src="https://img.shields.io/badge/hddoy2021@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>

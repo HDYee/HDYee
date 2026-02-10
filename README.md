@@ -1,93 +1,51 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="github_logo.png", width="450"/>
-</div>
-
-<!--내용 부분-->
-<h3 align="center">✨ Tech ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-</div>
+<h2>🚀 서비스 핵심 기능</h2>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Chroma-5A29E4?style=for-the-badge&logo=vectorworks&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-<br>
-  
-<div align="center">
-  <img src="https://img.shields.io/badge/LangChain%20Agent-0B5ED7?style=for-the-badge&logo=chainlink&logoColor=white" />
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</div>
+<h3>📊 대시보드 & 맞춤형 추천</h3>
+
+<ul>
+  <li><b>추천 공고 제공</b>: 사용자 방문 기록 및 관심 공고 기반으로 맞춤 공고 확인</li>
+  <li><b>핵심 지표 한눈에</b>: 신규 공고 / 마감 임박 공고 등 주요 현황 빠르게 확인</li>
+  <li><b>공고별 추이 분석</b>: 공고별 변화 추이 그래프를 통해 트렌드 파악 가능</li>
+</ul>
 
 <br>
 
-<h3 align="center">✏️ Studying ✏️</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
-</div>
+<h3>📝 AI 요약 보고서</h3>
 
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/LangChain-Retrieval-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/HuggingFace-Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-
-</div>
+<ul>
+  <li><b>RAG 기반 요약</b>: 공고문 내용을 검색(Retrieval) 후 요약(Generation)하여 핵심 정보 전달</li>
+  <li><b>핵심 정보 추출</b>: 필요한 조건/요건/제출 서류 등 중요한 내용을 구조화하여 제공</li>
+  <li><b>결과 분석</b>: 요약 결과를 기반으로 인사이트 및 체크리스트 형태로 지원</li>
+</ul>
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+<h3>🤖 챗봇 (지능형 검색)</h3>
+
+<ul>
+  <li><b>자연어 검색</b>: 키워드가 아닌 문장 기반 질문으로 공고 검색 가능</li>
+  <li><b>RAG 챗봇</b>: 벡터 검색 기반으로 관련 문서를 찾아 정확한 답변 제공</li>
+  <li><b>빠른 탐색</b>: 필요한 공고 정보/요약을 대화형으로 빠르게 확인</li>
+</ul>
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+<h3>💬 커뮤니티</h3>
 
-  <!-- Naver Blog -->
-  <a href="https://blog.naver.com/ddoddo2021">
-    <img src="https://img.shields.io/badge/naver%20blog-03C75A?style=flat&logo=naver&logoColor=white"/>
-  </a>&nbsp;
+<ul>
+  <li><b>카테고리 기반 소통</b>: 질문 / 정보 / 후기 / 토론 카테고리로 이용자 간 정보 공유 활성화</li>
+  <li><b>실무 팁 공유</b>: 입찰 경험 및 노하우를 커뮤니티에서 쉽게 공유 가능</li>
+  <li><b>참여 유도</b>: 사용자 간 상호작용으로 서비스 체류 및 활용도 증가</li>
+</ul>
 
-  <!-- Naver Email -->
-  <a href="mailto:ddoddo2021@naver.com">
-    <img src="https://img.shields.io/badge/ddoddo2021%40naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
-  </a>&nbsp;
+<br>
 
-  <!-- Gmail -->
-  <a href="mailto:hddoy2021@gmail.com">
-    <img src="https://img.shields.io/badge/hddoy2021%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+<h3>🎨 사용자 친화적 인터페이스</h3>
 
-</div>
-
+<ul>
+  <li><b>React 기반 반응형 UI</b>: 데스크톱/모바일 환경 모두 자연스럽게 대응</li>
+  <li><b>다크/라이트 테마 지원</b>: 사용자 선호에 맞춘 UI 모드 제공</li>
+  <li><b>직관적인 화면 구성</b>: 주요 기능을 빠르게 찾고 사용할 수 있도록 구성</li>
+</ul>

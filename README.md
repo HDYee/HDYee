@@ -8,35 +8,63 @@
 
 <h3 align="center">⚙️ Backend</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
-<h3 align="center">🤖 AI</h3>
+<h3 align="center">🤖 AI/ML Framework</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</div>
+
+<h3 align="center">🧠 AI Models & Systems</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
 </div>
 
-<h3 align="center">🗄 Database & Storage</h3>
+<h3 align="center">🗄 Data Processing</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Python_ETL-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Vector_Search-0A66C2?style=for-the-badge&logo=search&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/FAISS_Indexing-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+</div>
+
+<h3 align="center">☁️ DevOps & Deployment</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure_Container_Registry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Traffic_Manager-0078D4?style=for-the-badge&logo=azuretrafficmanager&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Load_Balancer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Auto_Scaling-4CAF50?style=for-the-badge&logo=scale&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=azuremonitor&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Azure_MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network_Security_Group-0078D4?style=for-the-badge&logo=security&logoColor=white" />
 </div>
 
-<h3 align="center">🔐 Security & Network</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Network_Security_Group-0078D4?style=for-the-badge&logo=security&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/NAT_Gateway-0078D4?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</div>
 
-<h3 align="center">📊 Monitoring & Ops</h3>
+<h3 align="center">🚀 CI/CD</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=azuremonitor&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Admin_Portal-4CAF50?style=for-the-badge&logo=adminer&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>

@@ -1,56 +1,93 @@
-<h2>🚀 서비스 핵심 기능</h2>
+<!--타이틀 부분-->
+<div align="center">
+  <img src="github_logo.png", width="450"/>
+</div>
+
+<!--내용 부분-->
+<h3 align="center">✨ Tech ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</div>
 
 <br>
 
-<h3>📊 대시보드 & 맞춤형 추천</h3>
-
-<ul>
-  <li><b>추천 공고 제공</b>: 사용자 방문 기록 및 관심 공고 기반으로 맞춤 공고 확인</li>
-  <li><b>핵심 지표 한눈에</b>: 신규 공고 / 마감 임박 공고 등 주요 현황 빠르게 확인</li>
-  <li><b>공고별 추이 분석</b>: 공고별 변화 추이 그래프를 통해 트렌드 파악 가능</li>
-</ul>
+<div align="center">
+  <img src="https://img.shields.io/badge/Chroma-5A29E4?style=for-the-badge&logo=vectorworks&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+<br>
+  
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain%20Agent-0B5ED7?style=for-the-badge&logo=chainlink&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
 
 <br>
 
-<h3>📝 AI 요약 보고서</h3>
+<h3 align="center">✏️ Studying ✏️</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
+</div>
 
-<ul>
-  <li><b>RAG 기반 요약</b>: 공고문 내용을 검색(Retrieval) 후 요약(Generation)하여 핵심 정보 전달</li>
-  <li><b>사정율 구간 예측</b>: AI 분석을 통해 낙찰 확률이 높은 사정율 구간 제시, 전략적인 투찰 의사결정 지원</li>
-  <li><b>핵심 정보 추출</b>: 필요한 조건/요건/제출 서류 등 중요한 내용을 구조화하여 제공</li>
-  <li><b>결과 분석</b>: 요약 결과를 기반으로 인사이트 및 체크리스트 형태로 지원</li>
-</ul>
-
-<br>
-
-<h3>🤖 챗봇 (지능형 검색)</h3>
-
-<ul>
-  <li><b>자연어 검색</b>: 키워드가 아닌 문장 기반 질문으로 공고 및 사이트 이용 정보 검색 가능</li>
-  <li><b>첨부 파일 업로드</b>: 공고문을 첨부해 공고 내용 요약 가능</li>
-  <li><b>RAG 기반 챗봇</b>: RAG 기반으로 Router와 Tool을 결합한 챗봇</li>
-  <li><b>빠른 탐색</b>: 필요한 공고 정보 및 요약 / 사이트 이용 정보를 대화형으로 빠르게 확인</li>
-</ul>
 
 <br>
 
-<h3>💬 커뮤니티</h3>
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LangChain-Retrieval-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/HuggingFace-Hub-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-<ul>
-  <li><b>카테고리 기반 소통</b>: 질문 / 정보 / 후기 / 토론 카테고리로 이용자 간 정보 공유 활성화</li>
-  <li><b>실무 팁 공유</b>: 입찰 경험 및 노하우를 커뮤니티에서 쉽게 공유 가능</li>
-  <li><b>참여 유도</b>: 사용자 간 상호작용으로 서비스 체류 및 활용도 증가</li>
-</ul>
+
+</div>
 
 <br>
 
-<h3>🖥️ 사용자 친화적 인터페이스</h3>
-<ul>
-  <li>React 기반 웹 애플리케이션</li>
-  <li>입찰 공고를 <b>업무 파이프라인 기반 상태 관리 UI</b> 제공</li>
-  <li>실제 입찰 업무 흐름(관심 → 검토 → 참여결정 → 서류 준비 → 제출 완료)을 시각적으로 표현</li>
-  <li>단계 변경을 통해 공고 상태를 직관적으로 관리 가능</li>
-  <li>마감 공고 자동 분리로 가독성 및 관리 효율 향상</li>
-  <li>다크 / 라이트 테마 지원</li>
-</ul>
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+</div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+
+  <!-- Naver Blog -->
+  <a href="https://blog.naver.com/ddoddo2021">
+    <img src="https://img.shields.io/badge/naver%20blog-03C75A?style=flat&logo=naver&logoColor=white"/>
+  </a>&nbsp;
+
+  <!-- Naver Email -->
+  <a href="mailto:ddoddo2021@naver.com">
+    <img src="https://img.shields.io/badge/ddoddo2021%40naver.com-03C75A?style=flat&logo=naver&logoColor=white"/>
+  </a>&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:hddoy2021@gmail.com">
+    <img src="https://img.shields.io/badge/hddoy2021%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
+</div>
 

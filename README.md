@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/Python_ETL-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+
+  
   <img src="https://img.shields.io/badge/Vector_Search-0A66C2?style=for-the-badge&logo=search&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/FAISS_Indexing-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
 </div>

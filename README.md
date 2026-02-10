@@ -40,26 +40,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure_Container_Registry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Azure_Container_Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Traffic_Manager-0078D4?style=for-the-badge&logo=azuretrafficmanager&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Load_Balancer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Auto_Scaling-4CAF50?style=for-the-badge&logo=scale&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=azuremonitor&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Azure_MySQL-0078D4?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Network_Security_Group-0078D4?style=for-the-badge&logo=security&logoColor=white" />
-</div>
 
 
 <h3 align="center">🚀 CI/CD</h3>
